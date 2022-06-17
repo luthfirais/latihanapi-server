@@ -88,14 +88,14 @@ if( empty($_SESSION['uname']) ){
                 <br>
                 <ul class="nav flex-column mb-2">
                     <li class="nav justify-content-center">
-                        <img src="img/coedotz.jpeg" alt="" height="180px">
+                        <img src="img/bocil.png" alt="" height="180px" width="180px">
                     </li>
                     <br>
                     <li class="nav-item">
-                        <p><strong>NAMA KALIAN</strong></p>
+                        <p><strong>LUTHFI RAIS ASRAL</strong></p>
                     </li>
                     <li class="nav-item">
-                        <p>NIM KALIAN</p>
+                        <p>6706210132</p>
                     </li>
                     </li>
                 </ul>
